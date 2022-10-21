@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/TINF21C_Team2_AAS_digital_nameplate/static/css/main.073c9b0a.css",
-    "main.js": "/TINF21C_Team2_AAS_digital_nameplate/static/js/main.cbd0e7b3.js",
+    "main.css": "/TINF21C_Team2_AAS_digital_nameplate/static/css/main.36f39067.css",
+    "main.js": "/TINF21C_Team2_AAS_digital_nameplate/static/js/main.e0bc346a.js",
     "static/js/787.98651143.chunk.js": "/TINF21C_Team2_AAS_digital_nameplate/static/js/787.98651143.chunk.js",
-    "static/media/logo.svg": "/TINF21C_Team2_AAS_digital_nameplate/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/TINF21C_Team2_AAS_digital_nameplate/index.html",
-    "main.073c9b0a.css.map": "/TINF21C_Team2_AAS_digital_nameplate/static/css/main.073c9b0a.css.map",
-    "main.cbd0e7b3.js.map": "/TINF21C_Team2_AAS_digital_nameplate/static/js/main.cbd0e7b3.js.map",
+    "main.36f39067.css.map": "/TINF21C_Team2_AAS_digital_nameplate/static/css/main.36f39067.css.map",
+    "main.e0bc346a.js.map": "/TINF21C_Team2_AAS_digital_nameplate/static/js/main.e0bc346a.js.map",
     "787.98651143.chunk.js.map": "/TINF21C_Team2_AAS_digital_nameplate/static/js/787.98651143.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.cbd0e7b3.js"
+    "static/css/main.36f39067.css",
+    "static/js/main.e0bc346a.js"
   ]
 }
